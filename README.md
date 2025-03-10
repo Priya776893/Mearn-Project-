@@ -62,11 +62,11 @@ A full-stack weather application built with Angular and Express.js that displays
 - GET `/api/weather/:city` - Get weather information for a specific city
 
 ## Contributing
-Feel free to submit issues and e
+Feel free to submit issues and enhancement requests!
 
 https://github.com/user-attachments/assets/9df0e467-83ec-4c41-b18a-e57a6f41e611
 
-nhancement requests! 
+ 
 
 
 
